@@ -172,3 +172,4 @@ mochila["peso"] ="2kg"
 console.log(mochila.marca)
 console.log(mochila["peso"])
 console.log(mochila)
+console.log(mochila[marca])

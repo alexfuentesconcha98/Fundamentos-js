@@ -135,3 +135,5 @@ const frutasTres = ['Manzana','Pera','Banana', 'Naranja','Manzana','Naranja']
 const resultFind  = frutasTres.find(X => X == 'Pera')
 
 console.log(resultFind)
+
+
